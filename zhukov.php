@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "<h1>Это файлик Вячеслава</h1>"; ?>   
+<?php echo "<h1>Это файлик Вячеслава</h1>"; ?>  
+    <?php echo "<h2>Это файлик Вячеслава</h2>"; ?>  
+    <?php echo "<div>Это файлик Вячеслава</div>"; ?>   
 </body>
 </html>
