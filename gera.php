@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "<h1>Это файлик Вовы</h1>" ?>
+    <?php echo "<h1>Это файлик Вовы</h1>"; ?>
 </body>
 </html>
